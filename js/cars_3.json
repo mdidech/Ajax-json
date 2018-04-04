@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Hardi",
+        "model":"Hyundi",
+        "type":{
+            "four":["Accent","Atos"],
+            "salon":["Avanti","Azera"]
+        },
+        "year":"2012"
+    },
+    {
+        "name":"Chevy",
+        "model":"Chevrolet",
+        "type":{
+            "four":["Tahoe","Captiva"],
+            "salon":["Camaro","Malbu"]
+        },
+        "year":"2012"
+    }
+]
